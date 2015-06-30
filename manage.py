@@ -10,3 +10,4 @@ if __name__ == "__main__":
     execute_from_command_line(sys.argv)
 
 #ini adalah perubahan manage.py pertama
+#ini  adalah perubahan manage.py kedua
